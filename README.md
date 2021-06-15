@@ -1,1 +1,1 @@
-# Powershell-master
+# Powershell - Basic Repo for Powershell codes or one liners.
